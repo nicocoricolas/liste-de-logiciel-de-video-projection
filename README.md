@@ -1,7 +1,7 @@
 # liste-de-logiciel-de-video-projection
 
-Attention, la liste de base date de 2015 et **va** donc être mise à jour prochainement.
+J'ai trouvé [cette liste](https://github.com/PraiseBase-Presenter/PraiseBase-Presenter/wiki/List-of-worship-song-presentation-software) qui recense des logiciels de vidéoprojection et vu qu'elle n'est pas mise à jour, je fais la mienne : https://github.com/nicocoricolas/liste-de-logiciel-de-video-projection/blob/main/liste.md
 
-Basée sur cette liste : https://github.com/PraiseBase-Presenter/PraiseBase-Presenter/wiki/List-of-worship-song-presentation-software
+Je la traduirais en anglais quand elle sera finie.
 
 Je compte ajouter des informations, pour les licences, l'accéssibilité, les fonctions « diaporamas powerpoint et opendocument », vidéos…
