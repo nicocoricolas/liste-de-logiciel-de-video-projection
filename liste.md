@@ -1,35 +1,38 @@
-## Liste de logiciels de vidéo-projection de louange
+## Liste de logiciels (libres et open&source) de vidéo-projection de louange
 
-### Logiciels libres et open-source
+### Sommaire
+- Liste des logiciels (que j'ai testé personellement)
+- Liste des logiciels (suite)
+- Comparatifs des focntionnalités
+- Notes
 
-| Nom | Système d'exploitation | Site | Licence | Dépôt si différent |
+### Liste des logiciels (que j'ai testé personellement)
+
+| Nom | Système d'exploitation | Site | Licence | Dépôt |
+|-----|------------------------|------|---------|--------------------|
+| OpenSong | Windows, Mac OS X, Linux | http://www.opensong.org | GPL | https://sourceforge.net/projects/opensong/ |
+| VideoPsalm | Windows | https://videopsalm.weebly.com/ | ? | ? |
+
+### Liste des logiciels (suite))
+
+| Nom | Système d'exploitation | Site | Licence | Dépôt |
 |-----|------------------------|------|---------|--------------------|
 | Church Music Organiser | Windows | http://www.churchmusicorganiser.com | ? | ? |
 | ExpoSong | Linux, Windows | https://code.google.com/p/exposong | ? | ? |
 | e7impress | Windows | http://e7impress.sourceforge.net | ? | ? |
 | FreeWorship |	Windows | http://www.freeworship.org.uk | ? | ? |
 | OpenLP | Linux, Mac, Windows | http://openlp.org | ? | ? |
-| OpenSong | Windows, Mac OS X, Linux | http://www.opensong.org | ? | ? |
 | Praisenter | Linux, Mac, Windows | http://praisenter.org | ? | ? |
 | Quelea | Linux, Windows | http://quelea.org | ? | ? |
-| VideoPsalm | Windows | http://myvideopsalm.weebly.com | ? | ? |
 | WordsLive | Windows | http://wordslive.org/de | ? | ? |
 
-### Logiciels propriétaires
+### Comparatifs des fonctionnalités
 
-| Nom | Système d'exploitation | Site |
-|-----|------------------------|------|
-| BeamerExpress | Windows | http://www.beamerexpress.de |
-| EasyWorship | Windows | http://www.easyworship.com |
-| Foilpresenter | Windows, Mac OS, Linux | http://www.foilpresenter.de |
-| MediaShout  | Windows | http://www.mediashout.com |
-| Partout | Windows | http://www.bibelpresenter.de |
-| Powerpraise | Windows | http://www.powerpraise.ch |
-| PraiseBox  | Windows | http://www.praisebox.ch |
-| ProPresenter | Mac OS, Windows | http://www.renewedvision.com/propresenter.php |
-| SongBeamer | Windows | http://www.songbeamer.de |
-| Worshipdatenbank | Windows | http://www.worshipdatenbank.de |
-| WorshipSystem  | Windows | http://www.worshipsystem.com |
-| ZionWorx | Windows | http://www.zionworx.com |
+| Nom | fonctionnalité 1 |
+|-----||------|
+| OpenSong |  |  |
+| VideoPsalm |  |
+
+### Notes
 
 Note : cette liste a été copiée depuis : https://github.com/PraiseBase-Presenter/PraiseBase-Presenter/wiki/List-of-worship-song-presentation-software
