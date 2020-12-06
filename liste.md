@@ -32,7 +32,3 @@
 |-----|------|
 | OpenSong |  |
 | VideoPsalm |  |
-
-### Notes
-
-Note : cette liste a été copiée depuis : https://github.com/PraiseBase-Presenter/PraiseBase-Presenter/wiki/List-of-worship-song-presentation-software
