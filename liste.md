@@ -4,7 +4,6 @@
 - Liste des logiciels (que j'ai testé personellement)
 - Liste des logiciels (suite)
 - Comparatifs des focntionnalités
-- Notes
 
 ### Liste des logiciels (que j'ai testé personellement)
 
