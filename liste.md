@@ -12,18 +12,11 @@
 | OpenSong | Windows, Mac OS X, Linux | http://www.opensong.org | GPL | https://sourceforge.net/projects/opensong/ |
 | VideoPsalm | Windows | https://videopsalm.weebly.com/ | propriétairee | ? |
 
-### Liste des logiciels (suite) //à mettre à jour
+### Liste des logiciels (que je vais tester)
 
 | Nom | Système d'exploitation | Site | Licence | Dépôt |
 |-----|------------------------|------|---------|--------------------|
-| Church Music Organiser | Windows | http://www.churchmusicorganiser.com | ? | ? |
-| ExpoSong | Linux, Windows | https://code.google.com/p/exposong | ? | ? |
-| e7impress | Windows | http://e7impress.sourceforge.net | ? | ? |
-| FreeWorship |	Windows | http://www.freeworship.org.uk | ? | ? |
-| OpenLP | Linux, Mac, Windows | http://openlp.org | ? | ? |
-| Praisenter | Linux, Mac, Windows | http://praisenter.org | ? | ? |
-| Quelea | Linux, Windows | http://quelea.org | ? | ? |
-| WordsLive | Windows | http://wordslive.org/de | ? | ? |
+| OpenLP | Linux, Mac, Windows | http://openlp.org | GPL | https://gitlab.com/openlp/ |
 
 ### Comparatifs des fonctionnalités
 
@@ -31,3 +24,4 @@
 |-----|------|
 | OpenSong |  |
 | VideoPsalm |  |
+| OpenLP | |
